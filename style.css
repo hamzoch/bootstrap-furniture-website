@@ -1,0 +1,32 @@
+.navbar{   
+    width: 100% !important;
+}
+.collapse{  
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+button, .navbar-toggler-icon{
+    color: white !important;
+}
+img{
+    width: 100% !important;
+}
+.d-flex{
+    justify-content:  space-between !important;
+    width: 100%;
+}
+input, textarea{
+    border: 1px solid black !important;
+}
+
+.icon{
+    font-size: 34px !important;
+}
+a{
+    text-decoration: none !important;
+    color: black !important;
+}
+footer img{
+    width: 50px !important;
+    margin-bottom: 10px !important;
+}
